@@ -1,6 +1,6 @@
 # Email_Classification_Transformers
 
-I will perform a text classification tasx using various Transformer models, mostly from Huggingface community
+I will perform a text classification task using various Transformer models, mostly from Huggingface community
 
 The notebook names are self exploratory
 
